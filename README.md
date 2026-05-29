@@ -41,11 +41,4 @@ Meu objetivo é ingressar profissionalmente na área de desenvolvimento web e co
 
 ---
 
-## 🤝 Vamos nos conectar
-
-* 💼 LinkedIn: Seu LinkedIn
-* 📧 E-mail: [seuemail@email.com](mailto:seuemail@email.com)
-
----
-
 > "Aprender algo novo todos os dias é a melhor forma de evoluir."
